@@ -1,30 +1,31 @@
-# 👋 Bonjour, je suis Rafandeferana Maminiaina Mercia
+# 👋 Hi, I’m Rafandeferana Maminiaina Mercia
 
-🎂 **Âge** : 23 ans  
-🎓 **Étudiant** à l’École Nationale d’Informatique (ENI) – Fianarantsoa  
-💻 **Développeur Fullstack** passionné par le web, le mobile et les architectures modernes
-
----
-
-## 🚀 À propos de moi
-
-Je suis un développeur fullstack avec une forte orientation **backend & architecture**, capable de concevoir des **applications web, mobiles et API performantes**, sécurisées et évolutives.
-
-J’aime résoudre des problèmes complexes, optimiser les performances et travailler sur des projets concrets allant de l’idée jusqu’au déploiement sur serveur (VPS).
+🎂 **Age**: 23 years old  
+🎓 **Student** at the National School of Computer Science (ENI) – Fianarantsoa  
+💻 **Full-Stack Developer** passionate about web, mobile, and modern software architectures
 
 ---
 
-## 🧠 Compétences & Expertises
+## 🚀 About Me
+
+I am a full-stack developer with a strong focus on **backend development and system architecture**.  
+I design and build **scalable, secure, and high-performance web, mobile, and API-based applications**.
+
+I enjoy solving complex problems, optimizing performance, and working on real-world projects — from initial idea to production deployment on VPS servers.
+
+---
+
+## 🧠 Skills & Expertise
 
 ### 🌐 Web & Backend
-- REST API & GraphQL
+- REST APIs & GraphQL
 - NestJS
 - Laravel
 - ASP.NET / .NET
-- Authentification, RBAC, sécurité
-- Architecture MVC / Clean Architecture
+- Authentication, RBAC, Security
+- MVC & Clean Architecture
 
-### 📱 Mobile
+### 📱 Mobile Development
 - Flutter
 - React Native
 
@@ -32,47 +33,53 @@ J’aime résoudre des problèmes complexes, optimiser les performances et trava
 - React
 - Next.js
 - Inertia.js (React)
-- Scaffolding & intégration UI
+- UI scaffolding & integration
 
-### 🗄️ Bases de données
+### 🗄️ Databases
 - PostgreSQL
 - MySQL
 - SQLite
 - ORM (TypeORM, Eloquent)
 
-### 🧩 Langages
+### 🧩 Programming Languages
 - TypeScript / JavaScript
 - PHP
 - Python
 - C / C#
 - .NET
 
-### 🧠 Algorithmique & Problem Solving
-- Structures de données
-- Algorithmes
-- Logique & optimisation
+### 🧠 Algorithms & Problem Solving
+- Data Structures
+- Algorithms
+- Logic & Optimization
 
 ### 🧱 CMS & E-commerce
 - WordPress
 - Elementor
 - WooCommerce
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aina-lang)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-## 📌 Projets notables
+## 🏆 GitHub Trophies
 
-- **hipster-backend** – API backend moderne avec NestJS
-- **hipster_web_app** – Application web fullstack
-- **vimaiz** – Projet PHP
-- **oniqo** – Projet TypeScript
+[![trophy](https://github-profile-trophy.vercel.app/?username=aina-lang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📫 Me contacter
-whatsapp : + 261 32 57 153 47
+## 📌 Notable Projects
 
-- GitHub : https://github.com/aina-lang
+- **hipster-backend** – Modern backend API built with NestJS
+- **hipster_web_app** – Full-stack web application
+- **vimaiz** – PHP-based project
+- **oniqo** – TypeScript project
 
 ---
 
-⭐ *Toujours motivé à apprendre, construire et améliorer des solutions numériques utiles.*
+## 📫 Contact Me
+
+📱 **WhatsApp**: +261 32 57 153 47  
+💻 **GitHub**: https://github.com/aina-lang
+
+---
+
+⭐ *Always motivated to learn, build, and improve impactful digital solutions.*
