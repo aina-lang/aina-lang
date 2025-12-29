@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Rafandeferana Maminiaina Mercia
 
-🎂 **Âge** : 22 ans  
+🎂 **Âge** : 23 ans  
 🎓 **Étudiant** à l’École Nationale d’Informatique (ENI) – Fianarantsoa  
 💻 **Développeur Fullstack** passionné par le web, le mobile et les architectures modernes
 
