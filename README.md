@@ -57,25 +57,7 @@ J’aime résoudre des problèmes complexes, optimiser les performances et trava
 - Elementor
 - WooCommerce
 
----
-
-## 🏆 GitHub Trophées
-
-![trophy](https://github-profile-trophy.vercel.app/?username=aina-lang&theme=darkhub)
-
----
-
-## 📊 Statistiques GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aina-lang&show_icons=true&theme=radical)
-
----
-
-## 🔥 Streak de contributions
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aina-lang&theme=dark)
-
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=aina-lang)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📌 Projets notables
 
@@ -87,6 +69,7 @@ J’aime résoudre des problèmes complexes, optimiser les performances et trava
 ---
 
 ## 📫 Me contacter
+whatsapp : + 261 32 57 153 47
 
 - GitHub : https://github.com/aina-lang
 
